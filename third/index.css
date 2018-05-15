@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+}
+
+header{
+    background-color: #e5e5e5;
+    height: 80px;
+
+}
+#blue_square{
+    height: 50px;
+    width: 50px;
+    background-color:#60aaff;
+    display: inline-block;
+    margin: 10px 20px;
+}
+div p{
+    padding: 50px;
+    text-align: left;
+    font-family: sans-serif;
+    
+}
+.bar{
+    height: 80px;
+
+}
+#one{
+    background-color: #60aaff;
+
+}
+#two{
+    background-color: aquamarine;
+}
+#three{
+    background-color: #d6ff99;
+
+}
+#four{
+    background-color: #ffee00;
+
+}
